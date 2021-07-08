@@ -1,4 +1,4 @@
-# <strong>lastpenta<strong>
+# <strong>LastPenta<strong>
 
   ## Description:
 
