@@ -2,7 +2,7 @@
 
 * ## Description:
 
-     * Gaming Website - Last updated (for the content): Apr, 2019
+     * Gaming Website - Last updated (content): Apr, 2019
 
 ***
 
